@@ -73,7 +73,7 @@ This project helps in understanding:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/to-do-app.git
+   git clone https://github.com/aqib897/to-do-app.git
    ```
 2. Open `index.html` in your browser.
 3. Start adding and managing tasks.
